@@ -23,6 +23,9 @@ is installed.
 A very simple base/bottom of the enclosure.  The bottom requires you to press in 3
 heat set inserts.
 
+The bottom uses 3 M2 heat set inserts
+- McMaster [94180A307](https://www.mcmaster.com/catalog/94180A307)
+
 ![alt text](https://github.com/2468shrm/CAN-Distribution-Board-Enclosure/blob/main/IMAGES/Bottom.png?raw=true)
 
 ## Top
@@ -31,6 +34,17 @@ A very simple top of the enclosure. The termination header window is included. T
 use the Termination Top.
 
 ![alt text](https://github.com/2468shrm/CAN-Distribution-Board-Enclosure/blob/main/IMAGES/Top.png?raw=true)
+
+
+## Low Profile Top (No Termination or Debug windows)
+
+A low-profile (low height) top for the enclosure. It is the preferred version for 2468 in
+FRC applications as it should minimize debris/swarf from entering the enclosure.
+
+This top allows the enclosure to be assembled with a 10 mm M2 screw.
+- McMaster [92095A104](https://www.mcmaster.com/catalog/92095A104)
+
+![alt text](https://github.com/2468shrm/CAN-Distribution-Board-Enclosure/blob/main/IMAGES/WithLowProfileTop.png?raw=true)
 
 ## Termination Top
 
