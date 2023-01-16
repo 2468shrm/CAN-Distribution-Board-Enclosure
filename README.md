@@ -112,6 +112,12 @@ with adding a decal on the enclosure plastic (top) in front of the WAGO connecto
 The set is shown below, but
 [PDF](https://github.com/2468shrm/CAN-Distribution-Board-Enclosure/blob/main/Decals/CAN%20Distribution%20Board%20Decals.pdf)
 and [SVF](https://github.com/2468shrm/CAN-Distribution-Board-Enclosure/blob/main/Decals/CAN%20Distribution%20Board%20Decals.svg)
-files containing a large number of sets is available in the repository.
+files containing a large number of sets is available in the repository. The SVG is provided
+should you wish to modify the decal patter (we use Inkscape). The PDF is provided for
+the simplest path to printing.
+
+Reminder: The decal approach is currently under development by 2468. At present we use
+sharpies, but would prefer the "professional" look of decals in the future. We share the
+information preliminarily.
 
 ![alt text](https://github.com/2468shrm/CAN-Distribution-Board-Enclosure/blob/main/IMAGES/Decal%20Pattern.png?raw=true)
